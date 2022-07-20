@@ -26,7 +26,7 @@
 	* Virginia
 	* Alabama
 	* Massachusetts
-	* Other (i.e. all other US states)
+	* Other (i.e. all other US states and non-drivers license images)
 
 * A labels file is included for labeling the training and allowing the neural network to learn
 
