@@ -61,7 +61,7 @@
 
 ![image](https://user-images.githubusercontent.com/46364751/180017549-f60084ab-00cc-4935-92a0-4d929e0c4e77.png)
 
-![image](https://user-images.githubusercontent.com/46364751/180017602-861517bb-680a-47f6-9a4f-d5b6b10e6fca.png)
+![image](https://user-images.githubusercontent.com/46364751/180018555-f7685dbb-cc48-47f3-b3ec-793d7513ef4d.png)
 
 
 * For testing purposes the model is brought back onto CPU with the test image as the new inputs
